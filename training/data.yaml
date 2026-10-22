@@ -1,0 +1,11 @@
+path: /home/claude/autonmous-car-simulator-main/training/dataset
+train: images/train
+val: images/val
+names:
+  0: red_light
+  1: green_light
+  2: pedestrian
+  3: crosswalk
+  4: dog
+  5: cat
+  6: traffic_cone
